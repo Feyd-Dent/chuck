@@ -1,15 +1,22 @@
 body {
     font-family: 'Graduate', cursive;
-    }
-    h1 {
-        font-size: 3rem;
-        text-align: center;
-    }
-    h2 {
-        font-size: 2.5rem;
-    }
-    p {
-        font-family: 'lato';
-        font-size: 1.5rem;
-        line-height: 2rem;
+    background: linear-gradient(to right, rgb(84, 7, 3), rgb(19, 14, 90));
+}
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    color: #E6E6FA;
+}
+h2 {
+    font-size: 2.5rem;
+    color: #E6E6FA;
+}
+h3 {
+    color: #E6E6FA;
+}
+p {
+    font-family: 'lato';
+    font-size: 1.5rem;
+    line-height: 2rem;
+    color: #E6E6FA;
     }
