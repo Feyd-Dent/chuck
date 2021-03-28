@@ -1,0 +1,16 @@
+.card {
+    display: flex;
+    border: 5px solid #E6E6FA;
+    padding: 2rem 0;
+    justify-content: center;
+    margin: 5rem auto;
+    width: 95%;
+}
+
+.card img {
+    width: auto;
+    height: 30vw;
+    max-height: 200px;
+    margin: auto 0;
+    
+}
